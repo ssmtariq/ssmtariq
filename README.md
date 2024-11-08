@@ -9,7 +9,7 @@
       <ul>
         <li> ✨ I am <strong> SSM TARIQ </strong> </li>
         <li> 🎓 A graduate student at the <a href="https://umdearborn.edu/">University of Michigan, Dearborn</a> </li>
-        <li> 🔭 Currently I'm also working as a Research Assistant at UofM</li>
+        <li> 🔭 Currently I'm also working as a Research Assistant at the University of Michigan</li>
         <li> 💻 Previously I have worked at <a href="https://bjitgroup.com/">BJIT Limited</a> as a <strong>Senior Software Engineer</strong> </li>
         <li> 💻 I have also worked at <a href="https://www.bracits.com/">BRAC IT Services Limited</a> as a <strong>Software Engineer</strong> </li>
         <li> 💼 I mananaged E-commerce application development projects, developed, deployed, tested application software and worked at diverse phases of SDLC </li>
